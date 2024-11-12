@@ -1,0 +1,146 @@
+,State,Area,Population,Violent crime,Murder and nonnegligent manslaughter,Rape (revised definition),Robbery,Rape (legacy definition),Aggravated assault
+0,ALABAMA,Metropolitan Statistical Area,3708033.0,18122.0,283.0,1496.0,4080.0,1080.0,12263.0
+1,ALABAMA,Cities outside metropolitan areas,522241.0,3178.0,32.0,311.0,354.0,218.0,2481.0
+2,ALABAMA,Nonmetropolitan counties,628705.0,1205.0,28.0,186.0,112.0,122.0,879.0
+4,ALASKA,Metropolitan Statistical Area,351857.0,3464.0,27.0,541.0,658.0,401.0,2238.0
+5,ALASKA,Cities outside metropolitan areas,127499.0,886.0,10.0,178.0,60.0,128.0,638.0
+6,ALASKA,Nonmetropolitan counties,259076.0,1015.0,22.0,176.0,41.0,116.0,776.0
+8,ARIZONA,Metropolitan Statistical Area,6479810.0,24725.0,280.0,2805.0,6239.0,2072.0,15401.0
+9,ARIZONA,Cities outside metropolitan areas,124240.0,2678.0,24.0,269.0,91.0,199.0,2294.0
+10,ARIZONA,Nonmetropolitan counties,224015.0,380.0,3.0,11.0,12.0,7.0,354.0
+12,ARKANSAS,Metropolitan Statistical Area,1837196.0,10724.0,124.0,1133.0,1673.0,838.0,7794.0
+13,ARKANSAS,Cities outside metropolitan areas,515124.0,2724.0,36.0,406.0,333.0,248.0,1949.0
+14,ARKANSAS,Nonmetropolitan counties,625884.0,1559.0,15.0,292.0,47.0,143.0,1205.0
+16,CALIFORNIA,Metropolitan Statistical Area,38317995.0,163195.0,1815.0,12411.0,52439.0,9116.0,96530.0
+17,CALIFORNIA,Cities outside metropolitan areas,268497.0,1630.0,15.0,151.0,245.0,106.0,1219.0
+18,CALIFORNIA,Nonmetropolitan counties,558326.0,2034.0,31.0,247.0,170.0,164.0,1586.0
+20,COLORADO,Metropolitan Statistical Area,4763884.0,16306.0,164.0,2991.0,3235.0,2196.0,9916.0
+21,COLORADO,Cities outside metropolitan areas,335080.0,750.0,6.0,167.0,75.0,119.0,502.0
+22,COLORADO,Nonmetropolitan counties,357610.0,430.0,6.0,95.0,11.0,58.0,318.0
+24,CONNECTICUT,Metropolitan Statistical Area,2951843.0,7441.0,102.0,694.0,2819.0,521.0,3826.0
+25,CONNECTICUT,Cities outside metropolitan areas,114485.0,110.0,1.0,23.0,27.0,20.0,59.0
+26,CONNECTICUT,Nonmetropolitan counties,524558.0,294.0,14.0,56.0,46.0,41.0,178.0
+28,DELAWARE,Metropolitan Statistical Area,945934.0,4720.0,63.0,341.0,1235.0,243.0,3081.0
+32,DISTRICT OF COLUMBIA,Metropolitan Statistical Area,672228.0,8531.0,162.0,494.0,3742.0,366.0,4133.0
+36,FLORIDA,Metropolitan Statistical Area,19564380.0,89825.0,999.0,7321.0,20811.0,5273.0,60694.0
+37,FLORIDA,Cities outside metropolitan areas,147871.0,1032.0,12.0,54.0,160.0,37.0,806.0
+38,FLORIDA,Nonmetropolitan counties,559021.0,2555.0,29.0,162.0,126.0,108.0,2238.0
+40,GEORGIA,Metropolitan Statistical Area,8441820.0,32186.0,508.0,2568.0,11058.0,1845.0,18052.0
+41,GEORGIA,Cities outside metropolitan areas,643253.0,2910.0,41.0,258.0,691.0,191.0,1920.0
+42,GEORGIA,Nonmetropolitan counties,1129787.0,2334.0,48.0,294.0,170.0,186.0,1822.0
+44,HAWAII,Metropolitan Statistical Area,1164233.0,2994.0,19.0,412.0,1009.0,302.0,1554.0
+48,IDAHO,Metropolitan Statistical Area,1104754.0,2537.0,19.0,497.0,150.0,369.0,1871.0
+49,IDAHO,Cities outside metropolitan areas,253084.0,598.0,7.0,122.0,34.0,104.0,435.0
+50,IDAHO,Nonmetropolitan counties,297092.0,432.0,6.0,75.0,8.0,60.0,343.0
+52,ILLINOIS,Metropolitan Statistical Area,11374234.0,44926.0,690.0,4050.0,14460.0,2989.0,25726.0
+53,ILLINOIS,Cities outside metropolitan areas,829658.0,2168.0,18.0,357.0,182.0,257.0,1611.0
+54,ILLINOIS,Nonmetropolitan counties,656103.0,950.0,24.0,195.0,36.0,131.0,695.0
+56,INDIANA,Metropolitan Statistical Area,5150613.0,21779.0,323.0,1853.0,6625.0,1384.0,12978.0
+57,INDIANA,Cities outside metropolitan areas,522395.0,1152.0,12.0,158.0,135.0,114.0,847.0
+58,INDIANA,Nonmetropolitan counties,946672.0,729.0,15.0,137.0,49.0,104.0,528.0
+60,IOWA,Metropolitan Statistical Area,1840338.0,5986.0,53.0,782.0,894.0,581.0,4257.0
+61,IOWA,Cities outside metropolitan areas,594976.0,2110.0,9.0,249.0,136.0,192.0,1716.0
+62,IOWA,Nonmetropolitan counties,688585.0,734.0,10.0,111.0,10.0,67.0,603.0
+64,KANSAS,Metropolitan Statistical Area,1965292.0,8382.0,93.0,1189.0,1616.0,928.0,5484.0
+65,KANSAS,Cities outside metropolitan areas,607622.0,2022.0,24.0,291.0,165.0,231.0,1542.0
+66,KANSAS,Nonmetropolitan counties,338727.0,711.0,9.0,106.0,15.0,70.0,581.0
+68,KENTUCKY,Metropolitan Statistical Area,2589701.0,7446.0,124.0,852.0,2836.0,573.0,3634.0
+69,KENTUCKY,Cities outside metropolitan areas,540143.0,906.0,13.0,170.0,312.0,123.0,411.0
+70,KENTUCKY,Nonmetropolitan counties,1295248.0,1324.0,72.0,470.0,159.0,301.0,623.0
+72,LOUISIANA,Metropolitan Statistical Area,3907874.0,21722.0,433.0,1522.0,5123.0,1113.0,14644.0
+73,LOUISIANA,Cities outside metropolitan areas,248611.0,1603.0,18.0,68.0,263.0,49.0,1254.0
+74,LOUISIANA,Nonmetropolitan counties,514239.0,1350.0,24.0,99.0,83.0,71.0,1144.0
+76,MAINE,Metropolitan Statistical Area,785828.0,996.0,7.0,222.0,245.0,174.0,522.0
+77,MAINE,Cities outside metropolitan areas,265131.0,464.0,10.0,169.0,55.0,128.0,230.0
+78,MAINE,Nonmetropolitan counties,278369.0,269.0,6.0,83.0,11.0,52.0,169.0
+80,MARYLAND,Metropolitan Statistical Area,5855016.0,26972.0,515.0,1623.0,9757.0,1152.0,15077.0
+81,MARYLAND,Cities outside metropolitan areas,52865.0,324.0,0.0,22.0,75.0,17.0,227.0
+82,MARYLAND,Nonmetropolitan counties,98520.0,166.0,1.0,21.0,31.0,15.0,113.0
+84,MASSACHUSETTS,Metropolitan Statistical Area,6695032.0,25477.0,124.0,1965.0,5160.0,1520.0,18228.0
+85,MASSACHUSETTS,Cities outside metropolitan areas,91950.0,337.0,2.0,36.0,18.0,31.0,281.0
+86,MASSACHUSETTS,Nonmetropolitan counties,7440.0,6.0,0.0,2.0,0.0,1.0,4.0
+88,MICHIGAN,Metropolitan Statistical Area,8121585.0,36719.0,528.0,4829.0,7663.0,3119.0,23699.0
+89,MICHIGAN,Cities outside metropolitan areas,599913.0,1443.0,8.0,491.0,60.0,331.0,884.0
+90,MICHIGAN,Nonmetropolitan counties,1201078.0,2813.0,35.0,1049.0,47.0,653.0,1682.0
+92,MINNESOTA,Metropolitan Statistical Area,4254071.0,11461.0,104.0,1813.0,3633.0,1327.0,5911.0
+93,MINNESOTA,Cities outside metropolitan areas,533363.0,1130.0,12.0,292.0,119.0,213.0,707.0
+94,MINNESOTA,Nonmetropolitan counties,702160.0,728.0,17.0,216.0,19.0,146.0,476.0
+96,MISSISSIPPI,Metropolitan Statistical Area,1372083.0,3343.0,95.0,431.0,1195.0,323.0,1622.0
+97,MISSISSIPPI,Cities outside metropolitan areas,585231.0,1147.0,43.0,148.0,371.0,108.0,585.0
+98,MISSISSIPPI,Nonmetropolitan counties,1035019.0,834.0,27.0,154.0,101.0,101.0,552.0
+100,MISSOURI,Metropolitan Statistical Area,4532929.0,25261.0,441.0,2105.0,6029.0,1531.0,16686.0
+101,MISSOURI,Cities outside metropolitan areas,664269.0,2770.0,28.0,246.0,292.0,179.0,2204.0
+102,MISSOURI,Nonmetropolitan counties,886474.0,2212.0,33.0,202.0,52.0,144.0,1925.0
+104,MONTANA,Metropolitan Statistical Area,365179.0,1299.0,20.0,195.0,134.0,135.0,950.0
+105,MONTANA,Cities outside metropolitan areas,218086.0,1134.0,6.0,203.0,52.0,172.0,873.0
+106,MONTANA,Nonmetropolitan counties,449684.0,1147.0,10.0,142.0,24.0,120.0,971.0
+108,NEBRASKA,Metropolitan Statistical Area,1227692.0,4027.0,50.0,594.0,929.0,441.0,2454.0
+109,NEBRASKA,Cities outside metropolitan areas,335719.0,781.0,6.0,200.0,50.0,152.0,525.0
+110,NEBRASKA,Nonmetropolitan counties,332779.0,305.0,5.0,51.0,11.0,38.0,238.0
+112,NEVADA,Metropolitan Statistical Area,2617805.0,19404.0,166.0,1565.0,6244.0,1156.0,11429.0
+113,NEVADA,Cities outside metropolitan areas,48996.0,237.0,2.0,41.0,10.0,29.0,184.0
+114,NEVADA,Nonmetropolitan counties,224044.0,477.0,10.0,82.0,33.0,53.0,352.0
+116,NEW HAMPSHIRE,Metropolitan Statistical Area,835158.0,1743.0,14.0,360.0,365.0,277.0,1004.0
+117,NEW HAMPSHIRE,Cities outside metropolitan areas,443394.0,750.0,0.0,218.0,87.0,148.0,445.0
+118,NEW HAMPSHIRE,Nonmetropolitan counties,52056.0,39.0,0.0,9.0,3.0,5.0,27.0
+120,NEW JERSEY,Metropolitan Statistical Area,8958013.0,22879.0,363.0,1373.0,9729.0,1019.0,11414.0
+124,NEW MEXICO,Metropolitan Statistical Area,1390305.0,9007.0,68.0,1115.0,2098.0,818.0,5726.0
+125,NEW MEXICO,Cities outside metropolitan areas,398912.0,2773.0,28.0,333.0,307.0,249.0,2105.0
+126,NEW MEXICO,Nonmetropolitan counties,295892.0,1389.0,17.0,155.0,37.0,100.0,1180.0
+128,NEW YORK,Metropolitan Statistical Area,18403124.0,72574.0,589.0,5099.0,23682.0,3721.0,43204.0
+129,NEW YORK,Cities outside metropolitan areas,513230.0,1239.0,9.0,298.0,182.0,217.0,750.0
+130,NEW YORK,Nonmetropolitan counties,879437.0,1288.0,11.0,667.0,56.0,443.0,554.0
+132,NORTH CAROLINA,Metropolitan Statistical Area,7835390.0,28126.0,383.0,2111.0,7601.0,1544.0,18031.0
+133,NORTH CAROLINA,Cities outside metropolitan areas,648044.0,3558.0,73.0,230.0,777.0,169.0,2478.0
+134,NORTH CAROLINA,Nonmetropolitan counties,1559368.0,2490.0,50.0,305.0,306.0,196.0,1829.0
+136,NORTH DAKOTA,Metropolitan Statistical Area,371616.0,973.0,11.0,179.0,96.0,141.0,687.0
+137,NORTH DAKOTA,Cities outside metropolitan areas,191270.0,660.0,5.0,126.0,44.0,106.0,485.0
+138,NORTH DAKOTA,Nonmetropolitan counties,194041.0,179.0,5.0,40.0,8.0,29.0,126.0
+140,OHIO,Metropolitan Statistical Area,9246915.0,29364.0,443.0,4055.0,11591.0,3277.0,13275.0
+141,OHIO,Cities outside metropolitan areas,1047288.0,1608.0,21.0,398.0,342.0,338.0,847.0
+142,OHIO,Nonmetropolitan counties,1319220.0,1277.0,18.0,343.0,138.0,266.0,778.0
+144,OKLAHOMA,Metropolitan Statistical Area,2621143.0,12556.0,185.0,1409.0,2666.0,1027.0,8296.0
+145,OKLAHOMA,Cities outside metropolitan areas,679145.0,3027.0,29.0,325.0,312.0,240.0,2361.0
+146,OKLAHOMA,Nonmetropolitan counties,611050.0,894.0,20.0,113.0,25.0,84.0,736.0
+148,OREGON,Metropolitan Statistical Area,3373232.0,8284.0,70.0,1185.0,1918.0,873.0,5111.0
+149,OREGON,Cities outside metropolitan areas,306104.0,828.0,11.0,163.0,110.0,123.0,544.0
+150,OREGON,Nonmetropolitan counties,349641.0,592.0,10.0,96.0,26.0,61.0,460.0
+152,PENNSYLVANIA,Metropolitan Statistical Area,11319063.0,37198.0,608.0,3557.0,12700.0,2615.0,20333.0
+153,PENNSYLVANIA,Cities outside metropolitan areas,683735.0,1657.0,22.0,171.0,150.0,122.0,1314.0
+154,PENNSYLVANIA,Nonmetropolitan counties,799705.0,1265.0,26.0,566.0,105.0,374.0,568.0
+156,PUERTO RICO,Metropolitan Statistical Area,3323005.0,7566.0,565.0,156.0,4063.0,116.0,2782.0
+157,PUERTO RICO,Cities outside metropolitan areas,151177.0,63.0,19.0,9.0,7.0,7.0,28.0
+159,RHODE ISLAND,Metropolitan Statistical Area,1056298.0,2537.0,28.0,444.0,555.0,331.0,1510.0
+163,SOUTH CAROLINA,Metropolitan Statistical Area,4145678.0,20072.0,331.0,1881.0,3338.0,1414.0,14522.0
+164,SOUTH CAROLINA,Cities outside metropolitan areas,207146.0,1799.0,26.0,135.0,326.0,98.0,1312.0
+165,SOUTH CAROLINA,Nonmetropolitan counties,543322.0,2421.0,36.0,244.0,206.0,167.0,1935.0
+167,SOUTH DAKOTA,Metropolitan Statistical Area,412368.0,1626.0,12.0,303.0,165.0,275.0,1146.0
+168,SOUTH DAKOTA,Cities outside metropolitan areas,219563.0,1391.0,7.0,160.0,40.0,138.0,1184.0
+169,SOUTH DAKOTA,Nonmetropolitan counties,226538.0,158.0,10.0,18.0,7.0,18.0,123.0
+171,TENNESSEE,Metropolitan Statistical Area,5103420.0,34397.0,351.0,2260.0,7078.0,1659.0,24708.0
+172,TENNESSEE,Cities outside metropolitan areas,513845.0,3364.0,16.0,253.0,295.0,183.0,2800.0
+173,TENNESSEE,Nonmetropolitan counties,983034.0,2639.0,39.0,163.0,101.0,124.0,2336.0
+175,TEXAS,Metropolitan Statistical Area,24422501.0,104453.0,1207.0,11040.0,31163.0,8068.0,61043.0
+176,TEXAS,Cities outside metropolitan areas,1425757.0,5528.0,43.0,657.0,602.0,472.0,4226.0
+177,TEXAS,Nonmetropolitan counties,1620856.0,2958.0,65.0,512.0,127.0,350.0,2254.0
+179,UTAH,Metropolitan Statistical Area,2675737.0,6295.0,49.0,1448.0,1292.0,969.0,3506.0
+180,UTAH,Cities outside metropolitan areas,144887.0,337.0,1.0,95.0,12.0,50.0,229.0
+181,UTAH,Nonmetropolitan counties,175295.0,346.0,4.0,79.0,10.0,61.0,253.0
+183,VERMONT,Metropolitan Statistical Area,217090.0,279.0,2.0,50.0,47.0,48.0,180.0
+184,VERMONT,Cities outside metropolitan areas,203524.0,307.0,5.0,48.0,42.0,44.0,212.0
+185,VERMONT,Nonmetropolitan counties,205428.0,153.0,3.0,38.0,12.0,29.0,100.0
+187,VIRGINIA,Metropolitan Statistical Area,7333021.0,14490.0,328.0,1920.0,4194.0,1252.0,8048.0
+188,VIRGINIA,Cities outside metropolitan areas,262020.0,721.0,19.0,115.0,139.0,72.0,448.0
+189,VIRGINIA,Nonmetropolitan counties,787952.0,1182.0,36.0,305.0,107.0,169.0,734.0
+191,WASHINGTON,Metropolitan Statistical Area,6452326.0,18899.0,197.0,2438.0,5234.0,1965.0,11030.0
+192,WASHINGTON,Cities outside metropolitan areas,296377.0,922.0,6.0,173.0,165.0,151.0,578.0
+193,WASHINGTON,Nonmetropolitan counties,421648.0,553.0,8.0,91.0,46.0,74.0,408.0
+195,WEST VIRGINIA,Metropolitan Statistical Area,1136862.0,3557.0,45.0,402.0,625.0,245.0,2485.0
+196,WEST VIRGINIA,Cities outside metropolitan areas,189216.0,280.0,4.0,23.0,28.0,18.0,225.0
+197,WEST VIRGINIA,Nonmetropolitan counties,518050.0,1325.0,11.0,142.0,29.0,83.0,1143.0
+199,WISCONSIN,Metropolitan Statistical Area,4268682.0,15597.0,207.0,1368.0,5087.0,923.0,8935.0
+200,WISCONSIN,Cities outside metropolitan areas,639613.0,1015.0,9.0,189.0,79.0,141.0,738.0
+201,WISCONSIN,Nonmetropolitan counties,863042.0,795.0,21.0,183.0,17.0,129.0,574.0
+203,WYOMING,Metropolitan Statistical Area,179738.0,366.0,8.0,50.0,31.0,36.0,277.0
+204,WYOMING,Cities outside metropolitan areas,245549.0,629.0,5.0,82.0,24.0,62.0,518.0
+205,WYOMING,Nonmetropolitan counties,160820.0,262.0,3.0,35.0,3.0,23.0,221.0
